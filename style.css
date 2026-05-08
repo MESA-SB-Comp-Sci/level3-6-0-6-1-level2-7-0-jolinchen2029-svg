@@ -16,7 +16,7 @@
 }
 
 .box1 {
-    width: 97vw;
+    width: 100vw;
     height: 30px;
     font-size: 1rem;
     background-color: rgba(61, 239, 201, 0.776);
@@ -26,10 +26,11 @@
 
 .box2 {
     width: 50vw;
+    height: 30px;
     font-size: 1rem;
     background-color: yellow;
     border: solid pink 10px;
-    padding-bottom: 5vw;
+    padding-bottom: 10vw;
     margin: 30px;
 }
 
